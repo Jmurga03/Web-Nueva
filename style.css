@@ -11,6 +11,7 @@
     padding: 1rem;
     background-color: var(--Cabecera);
 }
+
 nav a{
     color: white;
     text-decoration: none;
@@ -21,6 +22,7 @@ nav a{
 }
 .cabecera .i{
    color: aliceblue;
+}
 
 .cabecera img{
     height: 4rem;
